@@ -1,0 +1,11 @@
+{
+  "name": "p5projects",
+  "version": "1.0.0",
+  "description": "All p5 projects bundled into a single website with selectable drawings",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Christensen",
+  "license": "GPL-3.0-or-later"
+}
